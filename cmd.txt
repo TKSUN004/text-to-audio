@@ -1,0 +1,1 @@
+edge-tts -f yajin_combined_file.txt --voice ja-JP-NanamiNeural  --write-media test.mp3
